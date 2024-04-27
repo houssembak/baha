@@ -1,0 +1,73 @@
+{
+  "hash": "56b4a2c4",
+  "configHash": "78776f32",
+  "lockfileHash": "607d2561",
+  "browserHash": "c431e582",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "e70e84e5",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "f0972c87",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "14330c4b",
+      "needsInterop": false
+    },
+    "highcharts": {
+      "src": "../../../../../node_modules/highcharts/highcharts.js",
+      "file": "highcharts.js",
+      "fileHash": "82d1dff0",
+      "needsInterop": true
+    },
+    "highcharts-angular": {
+      "src": "../../../../../node_modules/highcharts-angular/fesm2022/highcharts-angular.mjs",
+      "file": "highcharts-angular.js",
+      "fileHash": "66a17f55",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "478d4745",
+      "needsInterop": false
+    },
+    "socket.io-client": {
+      "src": "../../../../../node_modules/socket.io-client/build/esm/index.js",
+      "file": "socket__io-client.js",
+      "fileHash": "144d1b61",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "ee3d4a9c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-VK2VULFE": {
+      "file": "chunk-VK2VULFE.js"
+    },
+    "chunk-CWHSGXOI": {
+      "file": "chunk-CWHSGXOI.js"
+    },
+    "chunk-5OLPNGMP": {
+      "file": "chunk-5OLPNGMP.js"
+    },
+    "chunk-T7RKEGOE": {
+      "file": "chunk-T7RKEGOE.js"
+    },
+    "chunk-SFFCLR5V": {
+      "file": "chunk-SFFCLR5V.js"
+    }
+  }
+}
